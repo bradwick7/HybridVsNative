@@ -1,8 +1,8 @@
 {
-  "homepage": "http:://bradwick7.github.io/HybridVsNative",
   "name": "cuadro_comparativo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bradwick7.github.io/HybridVsNative ",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
