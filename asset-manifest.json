@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HybridVsNative/static/css/main.9ad21eb2.css",
+    "main.js": "/HybridVsNative/static/js/main.a7922ee9.js",
+    "static/js/787.3319d1df.chunk.js": "/HybridVsNative/static/js/787.3319d1df.chunk.js",
+    "index.html": "/HybridVsNative/index.html",
+    "main.9ad21eb2.css.map": "/HybridVsNative/static/css/main.9ad21eb2.css.map",
+    "main.a7922ee9.js.map": "/HybridVsNative/static/js/main.a7922ee9.js.map",
+    "787.3319d1df.chunk.js.map": "/HybridVsNative/static/js/787.3319d1df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ad21eb2.css",
+    "static/js/main.a7922ee9.js"
+  ]
+}
